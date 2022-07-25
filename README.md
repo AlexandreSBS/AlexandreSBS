@@ -10,6 +10,9 @@
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&labelColor=red&logo=Gmail&logoColor=white&link=alexandresantiagobs@gmail.com" alt="Email" />
   </a>
 </p>
+<p align="center">
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="alexandresantiagobs" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/alexandresantiagobs/en?trk=profile-badge">Alexandre Santiago</a></div>
+</p>
 
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=alexandresbs&show_icons=true&theme=dark" /></p>
 
