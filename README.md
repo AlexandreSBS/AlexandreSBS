@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/alexandresantiagobs/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandresantiagobs/" alt="LinkedIn" />
   </a>
-  <a href = "mailto: alexandresantiagobs@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&labelColor=red&logo=Gmail&logoColor=white&link=alexandresantiagobs@gmail.com" alt="Email" />
+  <a href = "mailto: alexandre.s.developer@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&labelColor=red&logo=Gmail&logoColor=white&link=alexandre.s.developer@gmail.com" alt="Email" />
   </a>
 </p>
 
